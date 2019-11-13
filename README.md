@@ -1,0 +1,2 @@
+# StructuredReactApp
+Created with CodeSandbox
